@@ -54,7 +54,7 @@ function draw() {
     }
     AAA = AAA + 1;
   }
-  //document.getElementById("link").click();
+  document.getElementById("link").click();
   setTimeout("draw()", 1000);
 }
 
